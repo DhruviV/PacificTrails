@@ -1,0 +1,60 @@
+body{
+    color: #666666;
+    background-color: #ffffff;
+    font-family: arial, Verdana, sans-serif;
+    margin: 0px;
+}
+
+h2{
+    color:#3399CC; 
+    font-family: Georgia,serif;
+}
+nav{
+    
+        
+    float:left;
+    font-weight:bold; 
+    background-color: #90C7E3;
+}
+h1{
+    line-height: 200%;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+header{
+    background-image:url(sunset.jpg);
+    color: white;
+    background-size: cover;
+}
+footer{
+    font-size:0.70em;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+#wrapper
+{
+    margin-left: 220px;
+    align-content: center;
+    padding-left: 10%;
+    padding-right :10%;
+}
+.no-underline{
+    text-decoration: none;
+}
+.pad5{
+    padding:5px;
+}
+.width-100{
+    width: 100%;
+}
+.black-bold{
+    color:#000000;
+    font-weight: bold;
+}
+.large-font{
+    color:#000000;
+    font-size: larger;
+}
